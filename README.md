@@ -1,4 +1,7 @@
 # EDGE-DETECTION
+## EXPERIMENT NO: 6
+### NAME : AVINASH T
+### REG NO : 212223230026
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
